@@ -1,0 +1,10 @@
+   26  # 7e137e5c86d 354911f33
+   27  git hist
+   28  git log --graph --oneline --decorate
+   29  git status
+   30  git checkout -b devel-new
+   31  git log --graph --oneline --decorate
+   32  git rebase -i master
+   33  git log --graph --oneline --decorate
+   34  git log --graph --oneline --decorate --all
+   35  # that look right?
